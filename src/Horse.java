@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
-public class Horse {
+public class Horse extends Herbivore {
+    public Horse() {
+        super(400, 20, 4, 60, "🐎");
+    }
 }

@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
-public class Goat {
+public class Goat extends Herbivore {
+    public Goat() {
+        super(60, 140, 3, 10, "🐐");
+    }
 }
