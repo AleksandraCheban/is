@@ -455,7 +455,6 @@ public class FullSimulation {
                         System.err.println("Error creating offspring: " + e.getMessage());
                     }
                 }
-
             }
         }
     }
