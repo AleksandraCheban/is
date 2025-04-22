@@ -453,7 +453,7 @@ public class FullSimulation {
                         location.addAnimal(offspring);
                     } catch (Exception e) {
                         System.err.println("Error creating offspring: " + e.getMessage());
-                        123
+
                     }
                 }
             }
